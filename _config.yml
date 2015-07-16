@@ -2,8 +2,8 @@
 title: Jaap Bakker
 email: jaap@j33p.nl
 description: > # this means to ignore newlines until "baseurl:"
-  Ik heb een achtergrond in cultuur, een passie voor kunst 
-  en programeren en ben beschikbaar voor werk. 
+  I am a new born web developer specialized in a lot of stuff,<br />
+  but the one you wouldn't expect: culture.  
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
