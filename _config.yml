@@ -1,0 +1,16 @@
+name: Jaap Bakker
+description: Love, life, live, happiness. En een hoop gezeik natuurlijk
+meta_description: "The blog of Jaap Bakker. Owner of Colorblind, receptionist at Rockstart and lively guy from Amsterdam."
+
+markdown: redcarpet
+highlighter: pygments
+logo: assets/images/logo.png
+paginate: 5
+baseurl: /blog
+domain_name: 'http://jpbkkr.nl/'
+google_analytics: 'UA-66706864-1'
+
+# Details for the RSS feed generator
+url:            'http://www.jpbkkr.nl/'
+author:         'Jaap Bakker'
+author_description: 	'Ik woon in Amsterdam en schrijf al sinds jaar en dag.En daar hoort natuurlijk een blog bij. Nu meer <em>business-related</em>.'
